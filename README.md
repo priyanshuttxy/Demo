@@ -1,2 +1,0 @@
-# Demo
-The analytics file
